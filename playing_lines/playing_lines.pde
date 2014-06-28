@@ -17,6 +17,9 @@ void draw(){
       line(mouseX, mouseY, 0, height);
       
   }
-  if mousePressed
 
+}
+
+void mousePressed() {
+  background (255, 0, 255);
 }
